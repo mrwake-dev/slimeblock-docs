@@ -1,4 +1,10 @@
 {
   "title": "Introduction",
-  "pages": ["index", "basic-commands", "added-build-blocks"]
+  "pages": [
+    "index",
+    "basic-commands",
+    "added-build-blocks",
+    "---Guides---",
+    "...guides"
+  ]
 }
